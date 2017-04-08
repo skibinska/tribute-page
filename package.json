@@ -1,0 +1,24 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "Simple React page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skibinska/tribute-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skibinska/tribute-page/issues"
+  },
+  "homepage": "https://github.com/skibinska/tribute-page#readme",
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
+  }
+}
