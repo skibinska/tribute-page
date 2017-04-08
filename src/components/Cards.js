@@ -26,7 +26,7 @@ class Bio extends Component {
           <div className="col-xs-3">
             <div className="well">
               <p className="text-center">
-                She was also the first woman to become a professor at the University of Paris.
+                She was the first woman to become a professor at the University of Paris.
               </p>
             </div>
           </div>

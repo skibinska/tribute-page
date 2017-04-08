@@ -48,12 +48,14 @@ body
 .well
 {
   height: 150px;
+
 }
 
 .cards .text-center,
 .bio p
 {
   font-size: 2rem;
+  line-height: 3rem;
 }
 .bio h2
 {
