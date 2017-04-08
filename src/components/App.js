@@ -3,6 +3,7 @@ import Navbar from './Navbar';
 import Intro from './Intro';
 import Cards from './Cards';
 import Bio from './Bio';
+import Footer from './Footer';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         <Intro />
         <Cards />
         <Bio />
+        <Footer />
       </div>
     );
   }

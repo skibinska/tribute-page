@@ -9,6 +9,7 @@ body
   border-radius: 0;
   font-size: 2rem;
   text-transform: uppercase;
+  padding: 15px 0;
 }
 
 .navbar-right
@@ -63,4 +64,16 @@ body
 {
   line-height: 3.5rem;
   text-align: justify;
+}
+
+.footer
+{
+  background-color: #000;
+  margin-top: 20px;
+}
+
+.credit
+{
+  color: #fff;
+  padding: 20px 0;
 }
