@@ -1,11 +1,29 @@
+body
+{
+  font-family: 'Gentium Book Basic', serif;
+  font-size: 14px;
+}
+
 .navbar
 {
   border-radius: 0;
+  font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .navbar-right
 {
   margin-right: 0;
+}
+
+.intro
+{
+  margin-top: 140px;
+}
+
+.intro h2
+{
+  font-size: 4rem;
 }
 
 .main
@@ -17,9 +35,32 @@
 .title
 {
   margin: 60px 0;
+  font-style: italic;
+  font-size: 6rem;
 }
 
 .cards
 {
   margin-top: 50px;
+}
+
+.well
+{
+  height: 150px;
+}
+
+.cards .text-center,
+.bio p
+{
+  font-size: 2rem;
+}
+.bio h2
+{
+  font-size: 4rem;
+}
+
+.bio p
+{
+  line-height: 3.5rem;
+  text-align: justify;
 }

@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Bio extends Component {
   render () {
     return (
-      <div className="container">
+      <div className="container bio">
       <h2 className="text-center">Biography</h2>
       <p>
       Polish physicist, famous for her work on radioactivity and twice a winner of the Nobel Prize. With Henri Becquerel and her husband, Pierre Curie, she was awarded the 1903 Nobel Prize for Physics. She was the sole winner of the 1911 Nobel Prize for Chemistry. She was the first woman to win a Nobel Prize, and she is the only woman to win the award in two different fields.
