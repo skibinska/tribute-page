@@ -1,4 +1,4 @@
-# tribute-page
+# Tribute page
 
 ## What?
 
