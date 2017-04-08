@@ -2,7 +2,7 @@
 
 ## What?
 
-A Maria Skłodowska Curie tribute page as a Free Code Camp front end project.
+A Maria Skłodowska Curie tribute page.
 
 ## Why?
 
