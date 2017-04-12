@@ -6,8 +6,8 @@ class Navbar extends Component {
       <nav className="navbar navbar-inverse">
         <ul className="nav navbar-nav navbar-right">
           <li className="nav-item"><a className="nav-link" href="#">Home</a></li>
-          <li className="nav-item"><a className="nav-link" href="#">Biography</a></li>
-          <li className="nav-item"><a className="nav-link" href="#">Contact</a></li>
+          <li className="nav-item"><a className="nav-link" href="#biography">Biography</a></li>
+          <li className="nav-item"><a className="nav-link" href="#footer">Contact</a></li>
         </ul>
       </nav>
     );
